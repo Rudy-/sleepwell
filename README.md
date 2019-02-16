@@ -1,3 +1,9 @@
+For this project, I use :
+- react-bootstrap
+- google-distance
+- react-geolocation
+- lodash
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
