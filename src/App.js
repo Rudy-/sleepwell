@@ -43,6 +43,9 @@ class App extends Component {
           filteredData = _.SortyBy(filteredData, ['restaurantPrices']);
           break;
 
+        case 'distance':
+          console.log('Work in progress');
+
         default:
           console.log('No sorting.');
           break;
